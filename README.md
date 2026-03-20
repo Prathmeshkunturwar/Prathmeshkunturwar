@@ -1,33 +1,53 @@
-👋 Hi, I'm Prathmesh!:
+# Hey, I'm Prathmesh 👋
 
-🎓 Computer Science & Engineering Student at MGM University.
-💻 Aspiring AI Solutions Specialist with a strong passion for web development, machine learning, and data-driven solutions.
+**AI Engineer** building production LLM systems, intelligent agents, and workflow automation that actually ships.
 
-🚀 About Me:
+---
 
-🔍 I’m currently exploring AI in Marketing Research and working on innovative projects like Hand Gesture Control Systems and Call Sentiment Analysis.
-📊 I enjoy building interactive data visualization dashboards and working with tools like React, Flask, and Chart.js.
-🌱 My academic journey has given me opportunities to dive into diverse fields like blockchain, emotion recognition, and computer vision.
+## 🚀 What I Build
 
-💡 Career Goals:
+- **Multi-LLM AI Pipelines** — multi-model consensus systems (GPT-4 + Gemini + DeepSeek) with Whisper transcription for automated call QC
+- **RAG & Vector Search** — knowledge-augmented agent architectures deployed on AWS
+- **Workflow Automation** — end-to-end n8n + Python pipelines eliminating thousands of manual hours
+- **Full-Stack AI Apps** — FastAPI + React dashboards handling 16.9M+ records, payroll systems, client health monitoring platforms
 
+---
 
-🌟 Long-term: Build a fulfilling and well-rounded career in AI and technology, making impactful contributions to the field.
+## 📊 Impact at a Glance
 
-⚡ Fun Facts:
+| System | Impact |
+|---|---|
+| QC Automation Bot | 30 min → 3 min per appointment |
+| Lead Management Dashboard | 16.9M+ records, load time 60s → 11s |
+| Payroll Automation | 2–3 days → under 1 hour |
+| Workflow Automation | 2,500+ manual hours saved annually |
 
-⚽ A huge football enthusiast who enjoys watching matches.
-🌍 Always up for traveling and experiencing new cultures.
-🤝 A friendly team player with a good sense of humor!
+---
 
-🛠️ Tech Skills:
+## 🛠️ Tech Stack
 
-Programming Languages: Python, JavaScript
-Frameworks & Tools: Flask, React, Django, MongoDB, Chart.js
-AI & ML: Scikit-learn, TensorFlow, NLP, Computer Vision
+```
+LLMs & AI     → LangChain · LangGraph · OpenAI · Gemini · DeepSeek · Whisper · RoBERTa
+Infra         → AWS EC2/S3 · Docker · n8n · FastAPI · Flask
+Frontend      → React.js · TypeScript · Chart.js
+Databases     → PostgreSQL · MySQL · SQLite · Vector DBs
+Integrations  → GoHighLevel CRM · BambooHR · ViciDial · Slack API · Google Sheets API
+```
 
-📬 Connect with Me:
+---
 
-🌐 LinkedIn:
-📧 Email: [Kunuturwarprathmesh@gmail.com]
-💻 Portfolio
+## 📦 Open Source
+
+**[ai-context-mcp](https://npmjs.com/package/ai-context-mcp)** — MCP server for injecting rich AI context into LLM workflows
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prathmesh-kunturwar)
+[![Email](https://img.shields.io/badge/Email-kunturwarprathmesh@gmail.com-red?style=flat&logo=gmail)](mailto:kunturwarprathmesh@gmail.com)
+[![npm](https://img.shields.io/badge/npm-ai--context--mcp-CB3837?style=flat&logo=npm)](https://npmjs.com/package/ai-context-mcp)
+
+---
+
+*⚽ Cule for life. 🏍️ Royal Enfield incoming.*
